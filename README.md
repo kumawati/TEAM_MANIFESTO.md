@@ -1,0 +1,1 @@
+# TEAM_MANIFESTO.md
