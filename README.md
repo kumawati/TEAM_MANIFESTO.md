@@ -55,3 +55,4 @@ Jika terjadi perbedaan pendapat teknis atau miskomunikasi antar anggota tim terk
 ---
 **Komitmen Bersama Tim:**
 *"Kita adalah satu tim dengan satu tujuan: Menyelesaikan Aplikasi Kantin Pintar Kampus tepat waktu dengan kualitas terbaik, tanpa menjatuhkan satu sama lain."*
+
